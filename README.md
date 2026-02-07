@@ -1,4 +1,6 @@
 # nordify-cli
+![npm version](https://img.shields.io/npm/v/nordify-cli)
+![npm downloads](https://img.shields.io/npm/dm/nordify-cli)
 
 A CLI tool that applies a [Nord](https://www.nordtheme.com/) color palette filter to images.
 
